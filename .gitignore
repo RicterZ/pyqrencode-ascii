@@ -5,3 +5,6 @@ __pycache__
 MANIFEST
 env
 venv
+dist
+build
+*.pyc
