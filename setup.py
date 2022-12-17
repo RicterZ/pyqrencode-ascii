@@ -3,7 +3,7 @@ from distutils.core import setup, Extension
 encode = Extension('qrencode_ascii._qrencode', sources=['qr_encode.c'], libraries=['qrencode'])
 
 setup(name='qrencode-ascii',
-      version='1.0.1',
+      version='1.0.2',
       description='qrencode console version',
       author='Ricter Zheng',
       author_email='ricterzheng@gmail.com',
