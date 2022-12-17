@@ -4,7 +4,8 @@ Python wrapper for C qrencode library.
 ### Usage
 
 ```bash
-$ python3 -c 'import qrencode_ascii; print(qrencode_ascii.encode(\'Hello World\'))' █████████████████████████
+$ python3 -c 'import qrencode_ascii; print(qrencode_ascii.encode(\'Hello World\'))'
+█████████████████████████
 ██ ▄▄▄▄▄ ██ ▀ ▄█ ▄▄▄▄▄ ██
 ██ █   █ █▄ █ ▄█ █   █ ██
 ██ █▄▄▄█ ███▄█ █ █▄▄▄█ ██
